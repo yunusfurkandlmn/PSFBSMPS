@@ -1,0 +1,43 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Public\Documents\Altium\Projects\YunusLib\Database.accdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=C:\Users\Public\Documents\Altium\Projects\YunusLib\Database.accdb
+DatabasePathRelative=0
+TopPanelCollapsed=0
+LibrarySearchPath=..\YunusLibrary
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Yunus_DB
+[Table1]
+SchemaName=
+TableName=Yunus_DB
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Description0=187|Library Ref0=77|Library Path0=98|Footprint Path0=98|Footprint Ref0=92|Stoc Code0=75|Value0=52|MANUFACTURER P/N0=131|MANUFACTURER0=135|SUPPLIER 10=79|SUPPLIER PART NUMBER 10=156|ComponentLink1Description0=170|ComponentLink1URL0=131
+[FieldMap1]
+Options=FieldName=Yunus_DB.Description|TableNameOnly=Yunus_DB|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Yunus_DB.Library Ref|TableNameOnly=Yunus_DB|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Yunus_DB.Library Path|TableNameOnly=Yunus_DB|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Yunus_DB.Footprint Path|TableNameOnly=Yunus_DB|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Yunus_DB.Footprint Ref|TableNameOnly=Yunus_DB|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Yunus_DB.Stoc Code|TableNameOnly=Yunus_DB|FieldNameOnly=Stoc Code|FieldType=0|ParameterName=Stoc Code|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
